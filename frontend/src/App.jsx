@@ -1,9 +1,10 @@
+import SidebarContainer from "./components/Sidebar"
 
 function App() {
 
   return (
     <>
-      
+      <SidebarContainer/>
     </>
   )
 }
